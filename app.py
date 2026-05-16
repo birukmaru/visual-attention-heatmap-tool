@@ -151,7 +151,7 @@ def render_progress_bar(value, max_val=100, color="#4F8BF9"):
 def render_sidebar():
     """Build the sidebar UI. Returns dict of settings."""
     with st.sidebar:
-        st.markdown("## 🔍 Attention Heatmap")
+        st.markdown("## Attention Heatmap")
         st.markdown("---")
 
         # Upload
