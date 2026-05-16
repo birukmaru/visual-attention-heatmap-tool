@@ -1,0 +1,25 @@
+# Visual Attention Heatmap Tool - Dependencies
+# =============================================
+
+# Core framework
+streamlit>=1.28.0
+
+# Image processing
+opencv-python-headless>=4.8.0
+opencv-contrib-python-headless>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# Scientific computing
+scipy>=1.11.0
+scikit-image>=0.21.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# PDF report generation
+reportlab>=4.0.0
+
+# Optional: Deep learning backend (uncomment for neural saliency)
+# torch>=2.0.0
+# torchvision>=0.15.0
