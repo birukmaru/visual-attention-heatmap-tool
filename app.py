@@ -49,7 +49,6 @@ MAX_DIM = 1200  # max pixel dimension for processing
 # ---------------------------------------------------------------------------
 st.set_page_config(
     page_title="Visual Attention Heatmap Tool",
-    page_icon="🔍",
     layout="wide",
     initial_sidebar_state="expanded",
 )
